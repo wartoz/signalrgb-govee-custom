@@ -64,7 +64,7 @@ const GRADIENT_OFF_SKUS = [
  * -------------------------------------------------------------------------- */
 const SKU_PROFILES = {
     "H610A": { protocol: PROTO_DREAMVIEW, leds: 6,  label: "Glide Lively Bars" },
-    "H6062": { protocol: PROTO_DREAMVIEW, leds: 7,  label: "Glide Wall Light" },
+    "H6062": { protocol: PROTO_DREAMVIEW, leds: 54,  label: "Glide Wall Light" },
     "H6061": { protocol: PROTO_DREAMVIEW, leds: 10, label: "Hexa Panels" },
     "H6143": { protocol: PROTO_DREAMVIEW, leds: 15, label: "RGBIC Strip" },
     "H6076": { protocol: PROTO_DREAMVIEW, leds: 10, label: "Floor Lamp Basic" },
